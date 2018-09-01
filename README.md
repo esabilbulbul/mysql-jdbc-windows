@@ -38,7 +38,7 @@ jdbc:mysql://localhost:3306/mysql?serverTimezone=UTC
 
 you will need to add "serverTimezone=UTC" piece into your url connection.
 
-For Netbeans users, to define new driver to connect through Netbeans go to
+For Netbeans users, to define new driver to connect through Netbeans go to (See attachments NewDriver_step1.png and NewDriver_step2.png)
 - Window (menu) -> Services 
 - Right click on databases
 - New Connection
@@ -46,7 +46,7 @@ For Netbeans users, to define new driver to connect through Netbeans go to
 - Add the jar file mentioned above
 - Save
 
-After completed the steps, go to 
+After completed the steps, go to (NewConnection.png)
 - Window (menu) -> Services 
 - Right click on databases
 - New Connection
