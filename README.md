@@ -2,7 +2,7 @@
 
 MySQL8 Connection Problem on Windows 8
 
-Author: Software Engineer @ <a href="www.shipshuk.com">Shipshuk</a>
+Author: Software Engineer @ [shipshuk](http://www.shipshuk.com)
 
 If you are like me installed new Mysql version 8 on Windows 10, you will highly like to bump into the same problems. 
 There are a few problems you might be facing when connecting 
