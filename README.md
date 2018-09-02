@@ -42,15 +42,15 @@ For Netbeans users, to define new driver to connect through Netbeans go to (See 
 - Window (menu) -> Services 
 - Right click on databases
 - New Connection
-- Choose new driver
-- Add the jar file mentioned above
+- Choose MySQL (Connector / J Driver) on Driver options
+- Update the jar file mentioned above
 - Save
 
 After completed the steps, go to (NewConnection.png)
 - Window (menu) -> Services 
 - Right click on databases
 - New Connection
-- Choose the driver you just added in previous section
+- Choose MySQL (Connector / J Driver)
 - Next
 - User Name & Pwd
 - Add your jdbc URL (for example; jdbc:mysql://localhost:3306/mysql?serverTimezone=UTC)
